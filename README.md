@@ -4,7 +4,7 @@ We are ShareCrab consulting, a fictitious firm hired by the world famous (fictit
 Jenkins has entrusted us with choosing a college to recieve his enormous yearly donation.
 ## Core evaluation metric:
 <p> Our evaluation metric will be the school's own grade point per credit system  </p>
-<img src="school_weighted_metric" alt="grade point per credit chard" height="42" width="42">
+<img src="school_weighted_metric.png" alt="grade point per credit chard" height="42" width="42">
 ## Conditions:
 <ol>
 	<li>STEM education:
